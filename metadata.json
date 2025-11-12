@@ -1,0 +1,5 @@
+{
+  "name": "Podcast Insights AI",
+  "description": "An AI-powered assistant that transforms podcast videos into actionable insights tailored to your personal goals. Simply provide a YouTube URL and your objective, and receive a concise summary, aligned action points, and a reflection question to spur growth.",
+  "requestFramePermissions": []
+}
